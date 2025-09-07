@@ -1,6 +1,5 @@
 import multiprocessing
 
-from config import DESIRED_LANE_OFFSET, DESIRED_MIO_DISTANCE
 from lane_detection import detect_lanes
 from object_detection import detect_objects, find_mio
 
