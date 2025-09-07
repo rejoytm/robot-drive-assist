@@ -4,7 +4,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![Platforms](https://img.shields.io/badge/Platform-Raspberry_Pi-blue.svg)
 
-Robot Drive Assist is an embedded project running on a Raspberry Pi-based robot, designed for real-time lane detection and obstacle avoidance. It combines a sliding window technique, a lightweight YOLO11n NCNN model, and PID control algorithms to autonomously navigate a two-lane track while avoiding obstacles.
+**Robot Drive Assist** is an embedded project running on a Raspberry Pi-based robot, designed for real-time lane detection and obstacle avoidance. It combines a sliding window technique, a lightweight YOLO11n NCNN model, and PID control algorithms to autonomously navigate a two-lane track while avoiding obstacles.
 
 ## Features
 
