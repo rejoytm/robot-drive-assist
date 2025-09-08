@@ -32,8 +32,8 @@ WARPED_PERSPECTIVE_POINTS = np.float32([
 WARP_PERSPECTIVE_BG_COLOR = (255, 255, 255)
 
 # Lane width and vehicle x-position in warped perspective
-WARPED_LANE_WIDTH = 420 - 210
-WARPED_VEHICLE_X = (420 + 210) // 2
+WARPED_LANE_WIDTH = 220
+WARPED_VEHICLE_X = 350
 
 # Lane line parameters
 LANE_LINES = [
